@@ -157,6 +157,9 @@ h2 {
   /* TODO */
   align-self: center;
   background-color: white;
+  padding: 5%;
+  max-width: 25%;
+  max-height: 50%;
 }
 
 .mexico-red {
